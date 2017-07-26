@@ -1,6 +1,8 @@
 # Packages
 PRODUCT_PACKAGES += \
-    Turbo
+    Turbo \
+    WallpaperPickerGoogle \
+    Phonograph
 
 # Extra tools
 PRODUCT_PACKAGES += \
