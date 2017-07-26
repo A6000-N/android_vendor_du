@@ -9,7 +9,9 @@ PRODUCT_PACKAGES += \
     OmniStyle \
     OmniSwitch \
     ThemeInterfacer \
-    Turbo
+    Turbo \
+    WallpaperPickerGoogle \
+    Phonograph
 
 # Extra tools
 PRODUCT_PACKAGES += \
