@@ -1,3 +1,4 @@
+add_lunch_combo du_a6000-userdebug
 add_lunch_combo du_cheeseburger-userdebug
 add_lunch_combo du_clark-userdebug
 add_lunch_combo du_d802-userdebug
