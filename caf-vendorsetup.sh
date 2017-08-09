@@ -2,6 +2,10 @@ add_lunch_combo du_a6000-userdebug
 add_lunch_combo du_cheeseburger-userdebug
 add_lunch_combo du_clark-userdebug
 add_lunch_combo du_d802-userdebug
+add_lunch_combo du_j53gxx-userdebug
+add_lunch_combo du_j5lte-userdebug
+add_lunch_combo du_j5ltechn-userdebug
+add_lunch_combo du_j5nlte-userdebug
 add_lunch_combo du_lux-userdebug
 add_lunch_combo du_oneplus3-userdebug
 add_lunch_combo du_osprey-userdebug
